@@ -26,7 +26,7 @@ For inquiries, please contact Dercilio Junior Verly Lopes at dvl23@msstate.edu
 
 ## Also tested on:
 
-* TensorFlow 1.14 with Keras 2.2.5 with GPU support. Changes necessary in SBP/networks.py - line 24. (STRATEGY.SCOPE)
+* TensorFlow 1.14 with Keras 2.2.5 with GPU support.
 * Single NVIDIA RTX 2070 with 8GB OF DRAM. 
 * NVIDIA driver 436.30 or newer, CUDA toolkit 9.0, cuDNN 7.6.2
 
