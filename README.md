@@ -10,7 +10,9 @@
  ![logo2](https://img.shields.io/badge/cuDNN-7.6.4-green.svg?style=plastic)
  
 
-**This repository will contain the official TensorFlow/Keras implementation of the paper: Analysis of lumber prices timeseries using long short-term memory artificial neural networks** 
+**This repository contains the official TensorFlow/Keras implementation of the paper: Analysis of lumber prices timeseries using long short-term memory artificial neural networks** 
 
-For inquiries, please contact Dercilio Junior Verly Lopes at dvl23@msstate.edu
+**Use it as is. The authors, Mississippi State University, USDA and its brances are not responsible for any loss due to investments in the stock market by using models provided in this Git. 
+
+Run lstm.py within each folder.  
 
